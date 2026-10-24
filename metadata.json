@@ -1,0 +1,6 @@
+{
+  "name": "Andréia Porto - Psicóloga On-line",
+  "description": "Psicoterapia on-line com a psicóloga Andréia Porto (CRP 12/19429): ansiedade, sobrecarga e esgotamento feminino, para mulheres no Brasil e brasileiras que moram fora do país.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
